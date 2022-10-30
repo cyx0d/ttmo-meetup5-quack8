@@ -1,5 +1,5 @@
 # Quack-8 ve Quack-8'in Hikayesi
-Selaamlaarr. Bu bölümde sizlere Quack-8'i yazmaya nasıl başladığımın ve Quack-8 isminin nereden geldiğini anlatacağım.
+Selaamlaarr. Bu bölümde sizlere Quack-8'i yazmaya nasıl başladımın ve Quack-8 isminin nereden geldiğini anlatacağım.
 Akabinde Quack-8'in eksiklerine değinip README.md'yi kapatacağız.
 
 # Nedir bu Quack-8 ?
